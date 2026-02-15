@@ -1,2 +1,4 @@
 *.doc
-venv
+venv/
+.idea/
+
